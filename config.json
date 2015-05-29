@@ -1,0 +1,4 @@
+{
+	"person": {"name": "khal drogo"},
+	"input": "app/**/*.js"
+}
